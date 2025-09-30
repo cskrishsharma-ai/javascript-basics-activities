@@ -1,0 +1,11 @@
+// Activity 4: Arithmetic Operations
+
+let a = 10;
+let b = 5;
+
+console.log("a + b =", a + b);
+console.log("a - b =", a - b);
+console.log("a * b =", a * b);
+console.log("a / b =", a / b);
+console.log("a % b =", a % b);
+console.log("a ** b =", a ** b);  // exponent (power)
